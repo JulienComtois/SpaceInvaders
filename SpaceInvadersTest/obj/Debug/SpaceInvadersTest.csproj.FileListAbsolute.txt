@@ -1,0 +1,69 @@
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\obj\Debug\SpaceInvadersTest.csprojResolveAssemblyReference.cache
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SpaceInvadersTest.dll
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SpaceInvadersTest.pdb
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SpaceInvadersBusiness.dll
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.XAudio2.dll
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.dll
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.Direct3D11.dll
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.Direct2D1.dll
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.DXGI.dll
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.XInput.dll
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.MediaFoundation.dll
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SpaceInvadersBusiness.pdb
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\MonoGame.Framework.xml
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.XAudio2.xml
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.xml
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.Direct3D11.xml
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.Direct2D1.xml
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.DXGI.xml
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.XInput.xml
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.MediaFoundation.xml
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\obj\Debug\SpaceInvadersTest.dll
+H:\winter 2015\c#\SpaceInvaders\SpaceInvadersTest\obj\Debug\SpaceInvadersTest.pdb
+C:\Users\1020645\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\obj\Debug\SpaceInvadersTest.csprojResolveAssemblyReference.cache
+C:\Users\1020645\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\obj\Debug\SpaceInvadersTest.dll
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\obj\Debug\SpaceInvadersTest.csprojResolveAssemblyReference.cache
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\obj\Debug\SpaceInvadersTest.dll
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SpaceInvadersTest.dll
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SpaceInvadersTest.pdb
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\MonoGame.Framework.dll
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SpaceInvadersBusiness.dll
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.dll
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SpaceInvadersBusiness.pdb
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.xml
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\1336394\Downloads\SpaceInvaders\SpaceInvadersTest\obj\Debug\SpaceInvadersTest.pdb
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SpaceInvadersTest.dll
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SpaceInvadersTest.pdb
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SpaceInvadersBusiness.dll
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.dll
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.XInput.dll
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SpaceInvadersBusiness.pdb
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\MonoGame.Framework.xml
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.xml
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.XInput.xml
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\obj\Debug\SpaceInvadersTest.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\obj\Debug\SpaceInvadersTest.dll
+C:\Users\Julien\Dropbox\School\411\project\SpaceInvaders\SpaceInvadersTest\obj\Debug\SpaceInvadersTest.pdb

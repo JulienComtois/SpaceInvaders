@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Julien/Dropbox/School/411/project/SpaceInvaders/SpaceInvadersGUI/Content/assets/bomb.png</File>
+    <File>C:/Users/Julien/Dropbox/School/411/project/SpaceInvaders/SpaceInvadersGUI/Content/assets/bug.png</File>
+    <File>C:/Users/Julien/Dropbox/School/411/project/SpaceInvaders/SpaceInvadersGUI/Content/assets/bunker.png</File>
+    <File>C:/Users/Julien/Dropbox/School/411/project/SpaceInvaders/SpaceInvadersGUI/Content/assets/flyingsaucer.png</File>
+    <File>C:/Users/Julien/Dropbox/School/411/project/SpaceInvaders/SpaceInvadersGUI/Content/assets/laser.png</File>
+    <File>C:/Users/Julien/Dropbox/School/411/project/SpaceInvaders/SpaceInvadersGUI/Content/assets/mothership.png</File>
+    <File>C:/Users/Julien/Dropbox/School/411/project/SpaceInvaders/SpaceInvadersGUI/Content/assets/player.png</File>
+    <File>C:/Users/Julien/Dropbox/School/411/project/SpaceInvaders/SpaceInvadersGUI/Content/assets/satellite.png</File>
+    <File>C:/Users/Julien/Dropbox/School/411/project/SpaceInvaders/SpaceInvadersGUI/Content/assets/spaceship.png</File>
+    <File>C:/Users/Julien/Dropbox/School/411/project/SpaceInvaders/SpaceInvadersGUI/Content/assets/ScoreFont.spritefont</File>
+    <File>C:/Users/Julien/Dropbox/School/411/project/SpaceInvaders/SpaceInvadersGUI/Content/assets/alien1.png</File>
+  </SourceFiles>
+</SourceFileCollection>
